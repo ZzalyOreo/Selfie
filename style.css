@@ -1,0 +1,28 @@
+body {
+    font-weight: bolder;
+}
+
+#camara, #resultado {
+    margin: 0 auto;
+    width: 360px;
+    height: 250px;
+    border: 1px dotted grey;
+    background-size: 360px 250px;
+}
+
+#camara{
+    background-image: url(selfie.jpg);
+    
+}
+#resultado{
+    background-image: url(resultado.jpg);
+}
+
+#logo_img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+#textbox {
+    width: 300px;
+}
